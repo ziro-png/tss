@@ -1,0 +1,13 @@
+{
+  "fps": 12,
+  "style_prompt": "flat 2D explainer style, single focal illustration per scene inside a thin black-bordered letterbox frame, white/paper background margins, limited flat palette of 5-6 colors reused across the whole video, consistent line weight, slight hand-drawn line wobble, cel-shading only, NO photorealism, NO glossy 3D render, NO gradients, NO mixing of illustration styles between scenes",
+  "consistency_prompt": "strict character consistency: every frame must match the character bible JSON - same head shape, same eye shape, same palette, same clothing. Never redesign mid-video. Check against characters.json before every render pass. The host character must appear (fully or partially) in every scene, always same design, reacting or pointing toward the focal illustration.",
+  "audio_sync_prompt": "sync visual beats to narration keywords, simple lip shapes A/E/O/M/B/Rest, 1-2 second comic-timing pauses after punchlines",
+  "transition_prompt": "prefer clean cuts and match cuts (shared element or motion direction carried into the next scene); hand-drawn wipe allowed; strictly no flashy transitions, no 3D rotations, no light leaks",
+  "caption_prompt": "dynamic top caption bar: a short bold phrase (3-6 words) that changes every scene and summarizes THAT scene's idea - never a single word repeated for the whole video",
+  "motion_prompt": "every scene has exactly one dominant motion: slow Ken-Burns zoom/pan on the focal illustration, or a slight idle motion on the host character (arm, head, blink). Never a fully static frame for more than 1 second.",
+  "resolution": [
+    1280,
+    720
+  ]
+}

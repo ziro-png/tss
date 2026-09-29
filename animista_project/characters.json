@@ -1,0 +1,30 @@
+[
+  {
+    "name": "host",
+    "body_shape": "simple rounded torso, lab coat over dark shirt",
+    "head_shape": "round, featureless/minimal face",
+    "eyes": "two small simple dots or none, expression carried by eyebrows/hands",
+    "hair": "short black curly hair",
+    "clothing": "white lab coat, red baseball cap, dark shirt underneath",
+    "palette": {
+      "skin": "#F5E6D3",
+      "hair": "#1A1A1A",
+      "shirt": "#C0392B",
+      "pants": "#FFFFFF"
+    }
+  },
+  {
+    "name": "نادر",
+    "body_shape": "Slim simple body with expressive exaggerated arms and slightly large head",
+    "head_shape": "Slightly oversized soft rounded rectangle",
+    "eyes": "Large expressive dot eyes with flexible eyebrow arches for curiosity",
+    "hair": "Short neat wavy hair swooped to the side",
+    "clothing": "Casual short-sleeved t-shirt and straight-cut pants",
+    "palette": {
+      "skin": "#FFDFC4",
+      "hair": "#4A403A",
+      "shirt": "#A0C1D1",
+      "pants": "#5A7184"
+    }
+  }
+]

@@ -1,0 +1,188 @@
+{
+  "title": "حقيقة الإنترنت: شبكة قاع المحيطات",
+  "hook": "فاكر إن الإنترنت سحابة في الهوا؟ الحقيقة تحت المحيطات!",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration_sec": 2.5,
+      "visual_description": "Inside a crisp black-bordered letterbox on cream textured paper, host Nader stands on the left in a flat navy sweater, looking up quizzically at a floating, whimsical flat cloud emitting golden magic sparkles.",
+      "motion": "Host Nader raises an eyebrow while leaning slightly toward the floating cloud.",
+      "narration": "فاكر إن الإنترنت ده مجرد سحابة سحرية طايرة في الهوا؟",
+      "caption": "سحابة سحرية في الهواء؟",
+      "transition": "cut",
+      "consistency_notes": "Host Nader wears a navy sweater, round glasses, and charcoal trousers; flat 2D cel-shaded aesthetic with cream background.",
+      "characters": [
+        "نادر"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "duration_sec": 2.5,
+      "visual_description": "The golden sparkles from the cloud align into concentric radio waves transmitting from a miniature orbital satellite directly downward into a stylized smartphone held in Nader's hand.",
+      "motion": "Slow Ken-Burns zoom in on the smartphone screen receiving rhythmic pulse waves.",
+      "narration": "أو إشارات بتيجي من الفضاء لموبايلك؟",
+      "caption": "إشارات فضائية إلى هاتفك",
+      "transition": "match_cut",
+      "consistency_notes": "Identical linework weight and palette; satellite drawn in minimalist flat teal and orange.",
+      "characters": [
+        "نادر"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "duration_sec": 2.0,
+      "visual_description": "Nader steps into frame center, raising a warning palm to dismiss the floating satellite concept, his expression shifting to intense revelation against a dark navy backboard.",
+      "motion": "Host Nader steps decisively forward toward the viewer.",
+      "narration": "الحقيقة أعقد وأرعب من كده بكتير..",
+      "caption": "الحقيقة أعمق وأكثر تعقيداً",
+      "transition": "cut",
+      "consistency_notes": "Consistent character model sheet for Nader; flat lighting with single dark cel-shadow under chin.",
+      "characters": [
+        "نادر"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "duration_sec": 3.0,
+      "visual_description": "Under Nader's black-shod feet, the ground cross-section turns transparent, revealing an enormous, pulsing subterranean biological-style nerve network woven through earth strata.",
+      "motion": "Slow downward camera pan following the glowing neural fibers underground.",
+      "narration": "إحنا حرفياً عايشين فوق أكبر شبكة أعصاب مادية في تاريخ البشرية.",
+      "caption": "أضخم شبكة عصبية مادية",
+      "transition": "match_cut",
+      "consistency_notes": "Underground grid matches Nader's standing perspective; uses the established orange and cream accent tones.",
+      "characters": [
+        "نادر"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "duration_sec": 2.0,
+      "visual_description": "Nader proudly presents a heavy physical cross-section cut of a rugged subsea cable, displaying its thick protective steel casing layers and rubber sheath.",
+      "motion": "Host Nader rotates the heavy cross-section disk toward camera.",
+      "narration": "الإنترنت ده عبارة عن كابلات حقيقية..",
+      "caption": "كابلات حقيقية تحت الأرض",
+      "transition": "cut",
+      "consistency_notes": "Cable model clearly shows multilayered industrial shielding in consistent 2D vector hatching.",
+      "characters": [
+        "نادر"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "duration_sec": 3.0,
+      "visual_description": "The cable cross-section matches into an immense, snaking undersea cable resting on the textured deep-ocean seabed, connecting continental landmasses above while Nader watches from a submarine window.",
+      "motion": "Slow lateral pan tracking the endless cable across the deep sea floor.",
+      "narration": "خراطيم عملاقة نايمة في قاع المحيطات بتربط قارات العالم ببعضها.",
+      "caption": "خراطيم عملاقة بقاع المحيط",
+      "transition": "match_cut",
+      "consistency_notes": "The cable maintains identical outer diameter and color markings from scene 5; submarine porthole reveals Nader.",
+      "characters": [
+        "نادر"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "duration_sec": 2.5,
+      "visual_description": "Extreme close-up split-screen comparison: on the left, a single dark human hair strand; on the right, an ultra-thin glowing glass fiber optic filament held gingerly between Nader's fingers.",
+      "motion": "Slow zoom in focusing on the hairline optical core.",
+      "narration": "جواها شعيرات ألياف ضوئية أرفع من شعرة راسك،",
+      "caption": "ألياف زجاجية فائقة النحافة",
+      "transition": "cut",
+      "consistency_notes": "Nader's hand matches proportions and linework; clean vector cel-shading on the glass sheen.",
+      "characters": [
+        "نادر"
+      ]
+    },
+    {
+      "scene_id": 8,
+      "duration_sec": 2.5,
+      "visual_description": "Inside the transparent glass core from scene 7, brilliant orange and teal photon pulses race along the filament at hyper-speed, reflecting in Nader's spectacles.",
+      "motion": "Rapid forward tracking shot along the path of the speeding light pulse.",
+      "narration": "بس بتنقل بيانات العالم كله بسرعة الضوء.",
+      "caption": "بيانات تسافر بسرعة الضوء",
+      "transition": "match_cut",
+      "consistency_notes": "Direct continuation of the optical fiber interior; glasses reflection matches Nader's frames.",
+      "characters": [
+        "نادر"
+      ]
+    },
+    {
+      "scene_id": 9,
+      "duration_sec": 3.0,
+      "visual_description": "Nader presses a floating flat-vector like button on a mock phone UI; instead of gliding whole, the blue thumbs-up icon instantly fractures into faint segmented puzzle outlines.",
+      "motion": "Host Nader taps index finger firmly onto the screen button.",
+      "narration": "لما بتدوس لايك أو تفتح فيديو، رسالتك مش بتمشي حتة واحدة.",
+      "caption": "رسالتك لا تسافر متصلة",
+      "transition": "cut",
+      "consistency_notes": "Phone UI drawn in the 5-color palette; Nader's outfit and hair remain strictly consistent.",
+      "characters": [
+        "نادر"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "duration_sec": 2.5,
+      "visual_description": "The fractured pieces from scene 9 detonate into thousands of neat, numbered cubic packets labeled with binary tags, floating dynamically around Nader's astonished face.",
+      "motion": "Slow pull-back camera zoom as packets disperse outward.",
+      "narration": "الإنترنت بيكسرها لملايين الحتت الصغيرة اسمها حزم.",
+      "caption": "تفتيت البيانات إلى حزم",
+      "transition": "match_cut",
+      "consistency_notes": "Packet cubes inherit the exact blue hue of the fractured like button from scene 9.",
+      "characters": [
+        "نادر"
+      ]
+    },
+    {
+      "scene_id": 11,
+      "duration_sec": 3.0,
+      "visual_description": "A top-down schematic map of continental routing nodes; each numbered packet darts along a completely separate optical highway amidst dense data traffic.",
+      "motion": "Continuous horizontal pan across the diverging network paths.",
+      "narration": "كل حزمة بتاخد طريق مختلف تماماً في زحمة الشبكة العالمية عشان توصل بأسرع وقت،",
+      "caption": "مسارات مختلفة لكل حزمة",
+      "transition": "cut",
+      "consistency_notes": "Same numbered packet symbols and line art; Nader's profile framed in corner monitor analyzing routes.",
+      "characters": [
+        "نادر"
+      ]
+    },
+    {
+      "scene_id": 12,
+      "duration_sec": 2.0,
+      "visual_description": "The scattered packets zip from all sides of the frame and click together into a finished jigsaw puzzle, instantly reforming the pristine like badge on a destination phone screen.",
+      "motion": "Fast snap-in motion as individual cubes lock into the completed icon.",
+      "narration": "وهناك تتجمع تاني.",
+      "caption": "اكتمال التجميع عند الوصول",
+      "transition": "match_cut",
+      "consistency_notes": "Matches the exact arrival geometry of packets from scene 11; Nader gives an approving nod.",
+      "characters": [
+        "نادر"
+      ]
+    },
+    {
+      "scene_id": 13,
+      "duration_sec": 3.0,
+      "visual_description": "A split view displaying underwater subsea cables rising seamlessly into cold server room racks lined with blinking green diodes, with Nader holding a running stopwatch.",
+      "motion": "Slow upward tilt from seabed cable entrance up to server towers.",
+      "narration": "ملايين السيرفرات والكابلات شغالة 24 ساعة تحت الماية عشان إنت تشوف الفيديو ده في كسر من الثانية..",
+      "caption": "بنية تحتية تعمل باستمرار",
+      "transition": "cut",
+      "consistency_notes": "Same ocean cable design integrated with server farm interior; uniform line wobble.",
+      "characters": [
+        "نادر"
+      ]
+    },
+    {
+      "scene_id": 14,
+      "duration_sec": 3.0,
+      "visual_description": "Nader leans playfully against a stylized blinking server rack, holding up an oversized question-mark placard tagged with 'الجزء 2' (Part 2), gesturing invite to the viewer.",
+      "motion": "Host Nader tilts his head and raises the graphic Part 2 placard.",
+      "narration": "بس يا ترى إزاي الأجهزة دي بتفهم لغة بعض؟ ده اللي هنعرفه في الجزء التاني.",
+      "caption": "كيف تفهم الأجهزة بعضها؟",
+      "transition": "match_cut",
+      "consistency_notes": "Server rack directly carries over from scene 13; Nader's friendly posture concludes the beat.",
+      "characters": [
+        "نادر"
+      ]
+    }
+  ]
+}
